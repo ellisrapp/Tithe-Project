@@ -1,0 +1,10 @@
+Use Angular to make it into an app format where income input lines can be added and deleted.
+If this is done, the output disappears.
+The output is triggered by a 'calculate' button press and just displays the total income and other relevant text.
+
+There can be a settings page that the user can (maybe just for fun) switch to dark mode.
+And on this settings page they can adjust what percentage of income they want their firstfruits offering to be. 
+This will complicate the maths quite a bit and make the various tithe calculation coefficients 
+into single variable functions rather than just constants. 
+
+And another information page where the app shows the formulas used in calculation. 
